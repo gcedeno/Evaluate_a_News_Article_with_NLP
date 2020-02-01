@@ -15,8 +15,8 @@ function PostHandler(req, res, next) {
     // Please make sure to carate an account in aylian and obtain your own app_id and app_key
     // then create a .env file and set it.
     var textapi = new aylien({
-        application_id: process.env.APP_ID,
-        application_key: process.env.APP_KEY
+        application_id: process.env.API_ID,
+        application_key: process.env.API_KEY
     });
     textapi.sentiment({
       'url': req.body.text
