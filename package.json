@@ -1,6 +1,6 @@
 {
   "name": "Evaluate_a_news_article_with_NLP",
-  "version": "1.0.0"
+  "version": "1.0.0",
   "scripts": {
       "test": "test",
       "start": "node src/server/server.js",
