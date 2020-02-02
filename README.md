@@ -128,5 +128,6 @@ A great step to take with your finished project would be to deploy it! Unfortuna
 * [webpack documentation](https://webpack.js.org/)
 * [Sass Tutorial](https://sass-lang.com/guide)
 * [webpack for production](https://webpack.js.org/guides/production/)
+* [Google Workbox PWA tutorial](https://codelabs.developers.google.com/codelabs/workbox-lab/#0)
 
 
