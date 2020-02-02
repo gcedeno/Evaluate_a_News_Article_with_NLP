@@ -108,4 +108,25 @@ Once you are hooked up to the Aylien API, you are most of the way there! Along w
 A great step to take with your finished project would be to deploy it! Unfortunately its a bit out of scope for me to explain too much about how to do that here, but checkout [Netlify](https://www.netlify.com/) or [Heroku](https://www.heroku.com/) for some really intuitive free hosting options.
 
 ## References
-  * [stackoverflow](https://stackoverflow.com/questions/43362431/uncaught-in-promise-syntaxerror-unexpected-end-of-json-input)
+* [Udacity's Front End Developer ND](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011)
+* [Express/Node introduction](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
+* [Express Tutorial Part 4:Routes and controllers](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes)
+* [Express Routing Guide](https://expressjs.com/en/guide/routing.html)
+* [Creating Node.js modules](https://docs.npmjs.com/creating-node-js-modules)
+* [Using npm packages in your projects](https://docs.npmjs.com/using-npm-packages-in-your-projects)
+* [Tutorial Node.js](https://www.tutorialsteacher.com/nodejs/what-is-node-package-manager)
+* [How To Use Node.js Modules with npm and package.json](https://www.digitalocean.com/community/tutorials/how-to-use-node-js-modules-with-npm-and-package-json)
+* [Node.js Documentation](https://nodejs.org/api/http.html#http_response_statuscode)
+* [Creating a package.json file](https://docs.npmjs.com/creating-a-package-json-file)
+* [How to create Node.js modules](http://doc.codingdict.com/npm-ref/getting-started/creating-node-modules.html)
+* [Installing npm packages locally](https://www.youtube.com/watch?v=JDSfqFFbNYQ)
+* [A Beginner’s Guide to npm — the Node Package Manager](https://www.sitepoint.com/beginners-guide-node-package-manager/)
+* [Using the Package.json File to Create an NPM Package](https://www.youtube.com/watch?v=fqivzaG-YSo)
+* [Introduction to NPM and the Package.json](https://www.youtube.com/watch?v=gKyRqFgJt6k)
+* [API calls from Node.js](https://www.youtube.com/watch?v=ZtLVbJk7KcM)
+* [stackoverflow](https://stackoverflow.com/questions/43362431/uncaught-in-promise-syntaxerror-unexpected-end-of-json-input)
+* [webpack documentation](https://webpack.js.org/)
+* [Sass Tutorial](https://sass-lang.com/guide)
+* [webpack for production](https://webpack.js.org/guides/production/)
+
+
